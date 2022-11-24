@@ -1,4 +1,4 @@
 Air BnB clone task
 Contributors: 
-Osiyoku Oluwatimilehin
+Osiyoku Oluwatimilehin <osiyokuemmanuel@gmail.com>
 Oluwaseyi Akinbobola <olusheyidan@gmail.com>
