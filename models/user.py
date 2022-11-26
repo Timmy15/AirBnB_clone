@@ -18,4 +18,3 @@ class User(BaseModel):
     first_name = ""
     last_name = ""
 
-#Remove this comment
