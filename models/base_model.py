@@ -50,4 +50,3 @@ class BaseModel:
         clname = self.__class__.__name__
         return "[{}] ({}) {}".format(clname, self.id, self.__dict__)
 
-#Remove this comment
