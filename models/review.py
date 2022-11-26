@@ -16,4 +16,3 @@ class Review(BaseModel):
     user_id = ""
     text = ""
 
-#Remove this comment
