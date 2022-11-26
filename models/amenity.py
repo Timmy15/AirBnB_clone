@@ -12,4 +12,3 @@ class Amenity(BaseModel):
 
     name = ""
 
-#Remove this comment
